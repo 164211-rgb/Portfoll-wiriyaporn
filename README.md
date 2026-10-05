@@ -1,5 +1,4 @@
 # Portfollio-wiriyaporn
-# MyportThanakorn
 [หน้าปก](1.png)
 
 [Sop](2.png)
@@ -8,8 +7,8 @@
 
 [กิจกรรม1](4.png)
 
-[กิจกรรม2](5.png)
+[กิจกรรม2](6.png)
 
-[เกียรติบัตร](9.png)
+[กิจกรรม3](8.png)
 
-[End](11.png)
+[End](10.png)
